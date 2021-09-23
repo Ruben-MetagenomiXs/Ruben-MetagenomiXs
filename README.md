@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruben-MetagenomiXs
-- 👀 I’m interested in ...Microbiome and RNA seq bioinfarmatic pipelines
-- 🌱 I’m currently learning ...Micribome analysis
+- 👀 I’m interested in ...Microbiome and RNA seq bioinformatic pipelines
+- 🌱 I’m currently learning ...Microbiome analysis
 - 💞️ I’m looking to collaborate on ...Life sciencie research
 - 📫 How to reach me ...
 
